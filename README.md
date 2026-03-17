@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yawar Abbas Malik</h1>
+<h1 align="center">Hi 👋, I'm Yawar Abbas </h1>
 <h3 align="center"> Data Science Expert 📊 | ML Ops Expert 🤖</h3>
 
 ---
