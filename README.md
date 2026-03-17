@@ -6,7 +6,7 @@
 - 🎓 MS in Computer Science with focus on **Data Science & AI**
 - 📊 Published research in reputed journals
 - 🤖 Building solutions in **AI, LLMs, Automation & Data Analytics**
-- 🌍 Passion: Bridging **Aviation + AI + Data Intelligence**
+- 🌍 Passion: Bridging **AI + Business Intelligence**
 
 ---
 
