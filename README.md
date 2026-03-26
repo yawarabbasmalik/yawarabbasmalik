@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yawar Abbas </h1>
-<h3 align="center"> Data Science Expert 📊 | ML Ops Expert 🤖</h3>
+<h3 align="center"> Data Science Researcher 📊 | ML Ops Expert 🤖</h3>
 
 ---
 
